@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Praveen+M+%F0%9F%91%8B;Full+Stack+JavaScript+%2B+Java+Developer;Built+30%2B+Real-World+Projects;Data+Science+%7C+Spring+Boot+%7C+REST+APIs" alt="Typing SVG" />
 
@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20M-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-m-2478b5294)
 [![GitHub](https://img.shields.io/badge/GitHub-signin01-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/signin01)
 [![Email](https://img.shields.io/badge/Email-mpraveenkumarone%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mpraveenkumarone@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-9344584144-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919344584144)
 
 </div>
 
@@ -17,18 +18,16 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ```javascript
 const praveen = {
   name:       "Praveen M",
-  location:   "Theni, Tamil Nadu, India",
+  location:   "Theni, Tamil Nadu, India 🇮🇳",
   degree:     "B.Tech CSE (Data Science) — 2026",
   phone:      "+91 9344584144",
 
   stack: [
-    "JavaScript", "Java", "Python",
-    "Spring Boot", "Flutter", "TypeScript",
+    "JavaScript", "TypeScript", "Java",
+    "Spring Boot", "Flutter", "Python",
     "HTML", "CSS", "Flask",
     "MySQL", "MongoDB", "Firebase"
   ],
@@ -37,16 +36,15 @@ const praveen = {
     "Spring Boot Microservices",
     "Docker & DevOps",
     "System Design",
-    "DSA & Competitive Coding"
+    "DSA & Competitive Coding",
+    "Flutter Advanced"
   ],
 
-  projects: "30+ real-world web apps on GitHub 🚀",
+  projects: "30+ real-world web apps shipped 🚀",
   funFact:  "I turn coffee ☕ into clean, scalable code.",
   motto:    () => "Build. Break. Learn. Repeat. 🔁"
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -69,6 +67,7 @@ const praveen = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 
 **Databases**
 
@@ -105,29 +104,17 @@ const praveen = {
 
 </div>
 
----
-
-## 🔥 Streak Stats
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=signin01&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
----
-
-## 📈 Activity Graph
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=signin01&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
-
----
-
-## 🏆 Trophy Wall
 
 <div align="center">
 
@@ -168,14 +155,24 @@ const praveen = {
 | [**peerhub**](https://github.com/signin01/peerhub) | JavaScript | Peer collaboration hub — real-time interaction & community features |
 | [**estate**](https://github.com/signin01/estate) | JavaScript | Real estate web app with property listings & dynamic UI |
 | [**healthcare**](https://github.com/signin01/healthcare) | JavaScript | Healthcare management platform with patient-centric UI |
-| [**bulkmail**](https://github.com/signin01/bulkmail) | JavaScript | Bulk email tool — automated email sending with custom templates |
-| [**flutter-pr1**](https://github.com/signin01/flutter-pr1) | Dart · Flutter | Mobile app built with Flutter — cross-platform UI |
+| [**bulkmail**](https://github.com/signin01/bulkmail) | JavaScript | Bulk email tool — automated sending with custom templates |
+| [**flutter-pr1**](https://github.com/signin01/flutter-pr1) | Dart · Flutter | Cross-platform mobile app built with Flutter |
 | [**zorvyn**](https://github.com/signin01/zorvyn) | JavaScript | Creative JS project with dynamic interactions |
-| [**Nostra**](https://github.com/signin01/Nostra) | HTML · CSS · JS | E-commerce page with category/color filtering & mobile-friendly nav ⭐ |
-| [**WeatherPro**](https://github.com/signin01/WeatherPro) | JavaScript | Live weather app with API integration & clean UI |
+| [**Nostra**](https://github.com/signin01/Nostra) | HTML · CSS · JS | E-commerce with category/color filtering & mobile-friendly nav ⭐ |
+| [**WeatherPro**](https://github.com/signin01/WeatherPro) | JavaScript | Live weather app with real API integration & clean UI |
 | [**blog**](https://github.com/signin01/blog) | JavaScript | Blogging platform — earned a ⭐ star from the community |
 | [**netflix**](https://github.com/signin01/netflix) | JavaScript | Netflix UI clone with responsive design & hover effects |
-| [**udemy**](https://github.com/signin01/udemy) | HTML · CSS | Udemy clone with icons and layout matching the original page |
+| [**udemy**](https://github.com/signin01/udemy) | HTML · CSS | Udemy clone with icons and full layout |
+| [**payment**](https://github.com/signin01/payment) | JavaScript | Payment flow UI with clean UX |
+| [**showroom**](https://github.com/signin01/showroom) | JavaScript | Showroom product display web app |
+| [**event**](https://github.com/signin01/event) | JavaScript | Event management web application |
+| [**resume**](https://github.com/signin01/resume) | JavaScript | Interactive online resume/portfolio |
+| [**studentlist**](https://github.com/signin01/studentlist) | JavaScript | Student list manager with dynamic UI |
+| [**gallery-app**](https://github.com/signin01/gallery-app) | JavaScript | Image gallery app with filtering |
+| [**restaurant**](https://github.com/signin01/restaurant) | HTML · CSS | Restaurant web app with clean layout |
+| [**shinchan**](https://github.com/signin01/shinchan) | CSS | Shin-chan themed real-time character limit tracker |
+| [**anniyan-registration-form**](https://github.com/signin01/anniyan-registration-form) | HTML | Zoro-themed form with real-time JS validation |
+| [**random-gen**](https://github.com/signin01/random-gen) | JavaScript | Random generator utility app |
 
 </div>
 
@@ -191,7 +188,8 @@ const praveen = {
 | 🐍 | **Python Programming Certification** | Certified via Udemy — hands-on Python & scripting |
 | 🚀 | **30+ GitHub Projects** | Built and shipped 30+ real-world web apps across JS, TS, Dart & HTML/CSS |
 | ⭐ | **GitHub Star Received** | `blog` repo starred by the community |
-| 🤝 | **Hackathon Participant** | Participated in collaborative hackathons and team-based development |
+| 📊 | **10,000+ Records Analyzed** | Retail sales data analysis at Techvolt internship |
+| 🤝 | **Hackathon Participant** | Collaborative hackathons & team-based development |
 
 </div>
 
